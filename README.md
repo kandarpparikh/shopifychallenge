@@ -25,10 +25,10 @@ docker run -ti -p 3000:3000 -p 3001:3001 kandarpparikh/shopifychallenge
 ## Access the application 
 
 Open browser and navigate to 
-Application Home Page & Filters : [http://localhost:3000/home/](http://localhost:3000/home/)
-To add inventory : [http://localhost:3000/addinventory/](http://localhost:3000/addinventory/)
-To edit inventory : [http://localhost:3000/editinventory/](http://localhost:3000/editinventory/)
-To delete inventory : [http://localhost:3000/deleteinventory/](http://localhost:3000/deleteinventory/)
+- Application Home Page & Filters : [http://localhost:3000/home/](http://localhost:3000/home/)
+- To add inventory : [http://localhost:3000/addinventory/](http://localhost:3000/addinventory/)
+- To edit inventory : [http://localhost:3000/editinventory/](http://localhost:3000/editinventory/)
+- To delete inventory : [http://localhost:3000/deleteinventory/](http://localhost:3000/deleteinventory/)
 
 ## Feature Developed 
 
